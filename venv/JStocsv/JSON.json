@@ -1,0 +1,26 @@
+{
+
+  "emp_details" : [
+    {
+      "emp_name" : "Ashok",
+      "emp_id"    : 305,
+      "emp_profile" : "SE trainee",
+      "emp_email" : "ashok.kumar@tibilsolutions.com",
+      "emp_city"  : "Bangalore"
+    },
+    {
+      "emp_name" : "Chetan",
+      "emp_id"    : 306,
+      "emp_profile" : "SE trainee",
+      "emp_email" : "chetan.goudar@tibilsolutions.com",
+      "emp_city" : "Gajendragad"
+    },
+     {
+      "emp_name" : "abc",
+      "emp_id"    : 420,
+      "emp_profile" : "SE trainee",
+       "emp_email" : "abc420@gmail.com",
+       "emp_city" : "Bitbandhalli"
+    }
+  ]
+}
